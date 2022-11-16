@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png" alt="Holberton School logo">
-</p>
-
-# Simple Shell project 0x16.c - Sodash -
+# Simple Shell project 0x16.c 
 
 This is a simple UNIX command interpreter based on bash and Sh.
 
@@ -263,10 +259,10 @@ $ echo $NAME
 $
 ```
 
-## Authors & Copyrights
+## Authors
 
-* Luis chaparro <[luischaparroc](https://github.com/luischaparroc)>
-* Edward Ortiz <[edward0rtiz](https://github.com/edward0rtiz)>
+* Kingsley Isdore<[Misterkayh](https://github.com/misterkayh)>
+* Judith Ezenwosu<[Uceeyjudy](https://github.com/uceeyjudy)>
 
 ## More information
 
